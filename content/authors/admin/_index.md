@@ -71,7 +71,7 @@ work:
     company_url: 'https://thehotelsnetwork.com'
     company_logo: ''
     date_start: 2021-04-01
-    date_end: 2023-7-01
+    date_end: 2023-07-01
     summary: |
       Responsibilities include:    
       - Experience in the efficient deployment and management of highly scalable base on cloud and Kubernetes.
