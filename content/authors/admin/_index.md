@@ -100,7 +100,7 @@ work:
     company_name: Ir Soluciones
     company_url: 'https://www.irsoluciones.com/'
     company_logo: ''
-    date_start: 2027-02-01
+    date_start: 2017-02-01
     date_end: 2021-04-01
     summary: |
       Key Responsibilities:   
@@ -175,6 +175,6 @@ awards:
     summary: |
       Talks about current cloud trends, platform tools, highlighting the significant impact and importance of cloud technologies in the region.
 ---
-Hi!!!, I am a seasoned System Administrator turned cloud Platform Engineer with a passion for driving innovation and efficiency in cloud-based environments. With extensive expertise in deploying and managing highly scalable infrastructures, I leverage a deep knowledge of technologies such as Kubernetes, Terraform, Linux, Clouds, CI/CD and monitoring tools such Datadog and Prometheus stack. 
+Hi!, I am a seasoned System Administrator turned cloud Platform Engineer with a passion for driving innovation and efficiency in cloud-based environments. With extensive expertise in deploying and managing highly scalable infrastructures, I leverage a deep knowledge of technologies such as Kubernetes, Terraform, Linux, Clouds, CI/CD and monitoring tools such Datadog and Prometheus stack. 
 
 And yes, I can automate everything, except keeping my cats away my desk and houseplants... but I'm working on it!
