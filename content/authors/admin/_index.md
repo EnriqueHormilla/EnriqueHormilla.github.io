@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Enrique Hormilla
+title: Enrique Hormilla Aragón
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Platform Engineer
+role: Senior Platform Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Troop
+  - name: Troop travel
     url: https://www.trooptravel.com/
 
 # Social network links
@@ -37,35 +37,45 @@ education:
     institution: IES Comercio
     date_start: 2022-01-01
     date_end: ''
+    summary: | 
+      Define and implement security strategies in information systems by performing cybersecurity diagnostics, identifying
+      vulnerabilities and implementing the necessary measures to mitigate them by applying current regulations and industry
+      standards, following quality protocols, occupational risk prevention and environmental respect.    
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:259e09a4-d6b6-484d-acbd-02a898590f49/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf'
-  - area: EQF5 Web applications development (DAW)
+  - area: EQF5 Development of Web Applications (DAW)
     institution: IES Politécnico Estella
     date_start: 2017-01-01
-    date_end: 2019
+    date_end: 2019-01-01
+    summary: |    
+      Developing, implementing and maintaining web applications, irrespective of the model used and using specific
+      technologies, guaranteeing secure access to data and complying with the accessibility, usability and quality criteria
+      required by established standards.     
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf'      
-  - area: EQF5 Compute Network administration and management(ASIR)
+  - area: EQF5 Computer Network Systems Management (ASIR)
     institution: IES Los Boscos
     date_start: 2013-01-01
     date_end: 2015-01-01
+    summary: |
+      Configuring, administrating and maintaining computer systems, guaranteeing system functionality, integrity of resources
+      and services, with the required quality and complying with the current legislation 
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf'
 work:
-  - position: Platform Engineer
+  - position: Senior Platform Engineer
     company_name: Trooptravel
     company_url: 'https://www.trooptravel.com/'
     company_logo: ''
     date_start: 2023-07-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      Key Responsibilities:
+      - Desing and execution of deploying and managing highly scalable, cloud-based infrastructures utilizing Kubernetes, applying GitOps principles to ensure consistent and reliable operations
+      - Drive process initiatives that significantly enhance operational workflows and software development life cycle, resulting in improved efficiency and a marked reduction in release cycles.
   - position: Platform Engineer
     company_name: The Hotels Network
     company_url: 'https://thehotelsnetwork.com'
@@ -73,10 +83,9 @@ work:
     date_start: 2021-04-01
     date_end: 2023-07-01
     summary: |
-      Responsibilities include:    
-      - Experience in the efficient deployment and management of highly scalable base on cloud and Kubernetes.
-      - Expert in implementing continuous delivery practices and process
-      automation, optimizing workflows to improve efficiency and reduce release times.
+      Key Responsibilities:   
+      - Build efficient deployment and management solution of highly scalable base on cloud and Kubernetes.
+      - Implementing continuous delivery practices and process automation, optimizing workflows to improve efficiency and reduce release times.
   - position: Platform Consultant 
     company_name: SDG Group Iberia
     company_url: 'https://www.sdggroup.com'
@@ -84,17 +93,17 @@ work:
     date_start: 2020-02-01
     date_end: 2021-04-01
     summary: |
-      Responsibilities include:    
-      - Desing BI architecture solutions for large clients focus on high availability and gobernace.
+      Key Responsibilities:   
+      - Desing BI architecture solutions for large clients focus on high availability and governance.
       - Focus on global clusters based on Tableau Server.
-  - position: Vmware administrator & System administrator
+  - position: System administrator & Vmware administrator
     company_name: Ir Soluciones
     company_url: 'https://www.irsoluciones.com/'
     company_logo: ''
     date_start: 2027-02-01
     date_end: 2021-04-01
     summary: |
-      Responsibilities include:    
+      Key Responsibilities:   
       - Manage and monitor and improve our infrastructure to bring our cloud service solutions.
       - Desing and implement IT solutions for our clients.
   - position: Software engineer
@@ -104,7 +113,7 @@ work:
     date_start: 2015-01-01
     date_end: 2016-01-01
     summary: |
-      Responsibilities include:    
+      Key Responsibilities:   
       - Create and desing web application for internal or external clients.
       - Maintain web servers where we hosted the web apps.        
 
@@ -113,80 +122,60 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Terraform
+        description: ''
+        percent: 95
+        icon: devicon/terraform
       - name: Kubernetes
         description: ''
-        percent: 70
-        icon: devicon/kubernetes-plain
+        percent: 60
+        icon: devicon/kubernetes
       - name: Helm
         description: ''
         percent: 90
-        icon: devicon/helm-original       
+        icon: devicon/helm    
+      - name: ArgoCd
+        description: ''
+        percent: 90
+        icon: devicon/argocd        
       - name: Linux
-        description: 'focus on administrator task'
-        percent: 100
-        icon: devicon/linux-plain            
-      - name: Terraform
-        description: ''
-        percent: 100
-        icon: devicon/terraform-plain
-      - name: Terraform
-        description: ''
-        percent: 100
-        icon: devicon/argocd-plain
-      - name: Gitlab
-        description: ''
-        percent: 100
-        icon: devicon/gitlab-plain
+        percent: 80
+        icon: devicon/linux          
       - name: Grafana
         description: ''
-        percent: 100
-        icon: devicon/grafana-plain
+        percent: 80
+        icon: devicon/grafana
       - name: Prometheus
         description: ''
-        percent: 100
-        icon: devicon/prometheus-original                   
+        percent: 60
+        icon: devicon/prometheus                   
       - name: Google Cloud
-        description: ''
-        percent: 40
-        icon: devicon/googlecloud-plain
-      - name: Google Cloud
-        description: ''
-        percent: 40
-        icon: devicon/amazonwebservices-plain-wordmark
-        
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: devicon/googlecloud
+      - name: Amazon Web Service
         description: ''
-        percent: 100
-        icon: cat
-
+        percent: 50
+        icon: devicon/amazonwebservices
 languages:
   - name: English
     percent: 70
   - name: Spanish
     percent: 100
-  - name: Portuguese
-    percent: 1
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Talks in regional cloud native fundation
+  - title: Speaker at Regional Cloud Native Foundation Event  
     url: https://cloudnativerioja.com/
     date: '2023-11-25'
     awarder: Cloud Native Fundation
-    icon: coursera
     summary: |
-      Spread knowledge about cloud trend and talks about how cloud tecnologies are and will be important in the region.
+      Nice talks about current cloud trends, highlighting the significant impact and future importance of cloud technologies in the region.
 
 ---
-I am currently working as a Paltform engineer on trooptravel. I am part of the tranversal team how decide and manage all related about the platform bits. ;) 
+Hello! I'm Enrique, a seasoned System Administrator turned cloud Platform Engineer with a passion for driving innovation and efficiency in cloud-based environments. With extensive expertise in deploying and managing highly scalable infrastructures, I leverage a deep knowledge of technologies such as Kubernetes, Terraform, Linux, Clouds, CI/CD and monitoring tools such Datadog or prometheus stack. 
+
+And yes, I can automate everything, except keeping my cats awy my houseplants... but I'm working on it!
