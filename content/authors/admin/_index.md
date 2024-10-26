@@ -1,117 +1,159 @@
 ---
 # Display name
-title: 吳健雄
+title: Enrique Hormilla
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Enrique 
+last_name: Hormilla
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙋
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Platform Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Troop
+    url: https://www.trooptravel.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/EnriqueHormilla
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/enrique-hormilla/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: EQF 5C Cybersecurity in Information Technology Environments.
+    institution: IES Comercio
+    date_start: 2022
+    date_end: in progress
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 'More details'
+      url: 'https://www.todofp.es/dam/jcr:259e09a4-d6b6-484d-acbd-02a898590f49/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf'
+  - area: EQF5 Web applications development (DAW)
+    institution: IES Politécnico Estella
+    date_start: 2017
+    date_end: 2019
+    button:
+      text: 'More details'
+      url: 'https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf'      
+  - area: EQF5 Compute Network administration and management(ASIR)
+    institution: IES Los Boscos
+    date_start: 2013
+    date_end: 2015
+    button:
+      text: 'More details'
+      url: 'https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Platform Engineer
+    company_name: Trooptravel
+    company_url: 'https://www.trooptravel.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Platform Engineer
+    company_name: The Hotels Network
+    company_url: 'https://thehotelsnetwork.com'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-04-01
+    date_end: 2023-7-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities include:    
+      - Experience in the efficient deployment and management of highly scalable base on cloud and Kubernetes.
+      - Expert in implementing continuous delivery practices and process
+      automation, optimizing workflows to improve efficiency and reduce release times.
+  - position: Platform Consultant 
+    company_name: SDG Group Iberia
+    company_url: 'https://www.sdggroup.com'
+    company_logo: ''
+    date_start: 2020-02-01
+    date_end: 2021-04-01
+    summary: |
+      Responsibilities include:    
+      - Desing BI architecture solutions for large clients focus on high availability and gobernace.
+      - Focus on global clusters based on Tableau Server.
+  - position: Vmware administrator & System administrator
+    company_name: Ir Soluciones
+    company_url: 'https://www.irsoluciones.com/'
+    company_logo: ''
+    date_start: 2027-02-01
+    date_end: 2021-04-01
+    summary: |
+      Responsibilities include:    
+      - Manage and monitor and improve our infrastructure to bring our cloud service solutions.
+      - Desing and implement IT solutions for our clients.
+  - position: Software engineer
+    company_name: Manantial de ideas
+    company_url: 'https://www.manantialdeideas.com/'
+    company_logo: ''
+    date_start: 2015-01-01
+    date_end: 2016-01-01
+    summary: |
+      Responsibilities include:    
+      - Create and desing web application for internal or external clients.
+      - Maintain web servers where we hosted the web apps.        
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Kubernetes
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: 70
+        icon: devicon/kubernetes-plain
+      - name: Helm
+        description: ''
+        percent: 90
+        icon: devicon/helm-original       
+      - name: Linux
+        description: 'focus on administrator task'
+        percent: 100
+        icon: devicon/linux-plain            
+      - name: Terraform
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: devicon/terraform-plain
+      - name: Terraform
+        description: ''
+        percent: 100
+        icon: devicon/argocd-plain
+      - name: Gitlab
+        description: ''
+        percent: 100
+        icon: devicon/gitlab-plain
+      - name: Grafana
+        description: ''
+        percent: 100
+        icon: devicon/grafana-plain
+      - name: Prometheus
+        description: ''
+        percent: 100
+        icon: devicon/prometheus-original                   
+      - name: Google Cloud
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/googlecloud-plain
+      - name: Google Cloud
+        description: ''
+        percent: 40
+        icon: devicon/amazonwebservices-plain-wordmark
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -124,49 +166,27 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
+    percent: 70
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 1
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Talks in regional cloud native fundation
+    url: https://cloudnativerioja.com/
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: Cloud Native Fundation
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Spread knowledge about cloud trend and talks about how cloud tecnologies are and will be important in the region.
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+---
+I am currently working as a Paltform engineer on trooptravel. I am part of the tranversal team how decide and manage all related about the platform bits. ;) 
