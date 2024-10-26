@@ -35,22 +35,22 @@ profiles:
 education:
   - area: EQF 5C Cybersecurity in Information Technology Environments.
     institution: IES Comercio
-    date_start: 2022
-    date_end: in progress
+    date_start: 2022-01-01
+    date_end: ''
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:259e09a4-d6b6-484d-acbd-02a898590f49/ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf'
   - area: EQF5 Web applications development (DAW)
     institution: IES Politécnico Estella
-    date_start: 2017
+    date_start: 2017-01-01
     date_end: 2019
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf'      
   - area: EQF5 Compute Network administration and management(ASIR)
     institution: IES Los Boscos
-    date_start: 2013
-    date_end: 2015
+    date_start: 2013-01-01
+    date_end: 2015-01-01
     button:
       text: 'More details'
       url: 'https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf'
