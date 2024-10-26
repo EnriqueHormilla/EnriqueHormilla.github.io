@@ -120,7 +120,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
       - name: Terraform
         description: ''
@@ -128,7 +128,7 @@ skills:
         icon: devicon/terraform
       - name: Kubernetes
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon/kubernetes
       - name: Helm
         description: ''
@@ -136,7 +136,7 @@ skills:
         icon: devicon/helm    
       - name: ArgoCd
         description: ''
-        percent: 90
+        percent: 100
         icon: devicon/argocd        
       - name: Linux
         percent: 80
@@ -147,15 +147,15 @@ skills:
         icon: devicon/grafana
       - name: Prometheus
         description: ''
-        percent: 60
+        percent: 80
         icon: devicon/prometheus                   
       - name: Google Cloud
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon/googlecloud
       - name: Amazon Web Service
         description: ''
-        percent: 50
+        percent: 70
         icon: devicon/amazonwebservices
 languages:
   - name: English
@@ -170,12 +170,11 @@ languages:
 awards:
   - title: Speaker at Regional Cloud Native Foundation Event  
     url: https://cloudnativerioja.com/
-    date: '2023-11-25'
+    date: ''
     awarder: Cloud Native Fundation
     summary: |
-      Nice talks about current cloud trends, highlighting the significant impact and future importance of cloud technologies in the region.
-
+      Talks about current cloud trends, platform tools, highlighting the significant impact and importance of cloud technologies in the region.
 ---
-Hello! I'm Enrique, a seasoned System Administrator turned cloud Platform Engineer with a passion for driving innovation and efficiency in cloud-based environments. With extensive expertise in deploying and managing highly scalable infrastructures, I leverage a deep knowledge of technologies such as Kubernetes, Terraform, Linux, Clouds, CI/CD and monitoring tools such Datadog or prometheus stack. 
+Hi!!!, I am a seasoned System Administrator turned cloud Platform Engineer with a passion for driving innovation and efficiency in cloud-based environments. With extensive expertise in deploying and managing highly scalable infrastructures, I leverage a deep knowledge of technologies such as Kubernetes, Terraform, Linux, Clouds, CI/CD and monitoring tools such Datadog and Prometheus stack. 
 
-And yes, I can automate everything, except keeping my cats awy my houseplants... but I'm working on it!
+And yes, I can automate everything, except keeping my cats away my desk and houseplants... but I'm working on it!
