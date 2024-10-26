@@ -1,4 +1,4 @@
-# [Hugo Résumé Theme](https://github.com/HugoBlox/theme-resume)
+<!-- # [Hugo Résumé Theme](https://github.com/HugoBlox/theme-resume)
 
 [![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
 
@@ -33,4 +33,6 @@ We're an open source movement that depends on your support to stay online and th
 
 ## Demo credits
 
-- [Unsplash](https://unsplash.com/) images
+- [Unsplash](https://unsplash.com/) images -->
+
+My CV as a code based on https://github.com/HugoBlox/theme-resume 
